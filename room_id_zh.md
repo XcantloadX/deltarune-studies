@@ -33,11 +33,11 @@
 |   31   |         -          |    room_schooldoor     |                           储物室前                           |
 |   32   |         -          |   room_insiedcloset    |                          储物室里面                          |
 |   33   |         -          | room_school_unusedroom |                           废弃教室                           |
-|   34   |         -          |       room_dark1       |    暗世界的第一个房间![room_dark1](images\room_dark1.png)    |
+|   34   |         -          |       room_dark1       |    暗世界的第一个房间![room_dark1](images/room_dark1.png)    |
 |   35   |       ??????       |      room_dark1a       |                        34号房间的左边                        |
 |   36   |         -          |       room_dark2       |                       ??????房间的左边                       |
-|   37   |         -          |       room_dark3       |             ![room_dark3](images\room_dark3.png)             |
-|   38   |         -          |      room_dark3a       |            ![room_dark3a](images\room_dark3a.png)            |
+|   37   |         -          |       room_dark3       |             ![room_dark3](images/room_dark3.png)             |
+|   38   |         -          |      room_dark3a       |            ![room_dark3a](images/room_dark3a.png)            |
 |   39   |         -          |   room_dark_wobbles    |         ![room_dark3a](images/room_dark_wobbles.png)         |
 |   40   |     Eye Puzzle     |  room_dark_eyepuzzle   |        ![room_dark3a](images/room_dark_eyepuzzle.png)        |
 |   41   |         -          |      room_dark_7       |                          遇见Susie                           |
