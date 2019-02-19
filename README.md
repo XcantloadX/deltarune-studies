@@ -1,2 +1,2 @@
 # deltarune-stuffs
-save file structures, flags, etc.
+目前有的：flag收集、房间ID和名字
