@@ -6,4 +6,4 @@
 
 [Debug 快捷键](debug_hotkeys.txt)
 
-[对话文本格式(lang_en.json](obj_writer.md)
+[对话文本格式（lang_en.json）](obj_writer.md)
