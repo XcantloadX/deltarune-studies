@@ -1,9 +1,8 @@
 # deltarune-stuffs
-目前有的：
 
-[global.flag 收集](flags.txt)
+[flags 说明](flags.txt)
 
-[房间 ID 和名字](room_id_zh.md)
+[Room ID 和名字](room_id_zh.md)
 
 [Debug 快捷键](debug_hotkeys.txt)
 
